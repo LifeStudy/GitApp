@@ -5,8 +5,6 @@ import './config/ReactotronConfig';
 import { StatusBar } from 'react-native';
 import Routes from './routes';
 
-console.tron.log('FSGDFGHG');
-
 const GitApp = () => {
  return (
   <>
